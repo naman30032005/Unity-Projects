@@ -8,6 +8,9 @@ A simple version of my Unity Essentials Project
 - A top down version of the ufo
 - A Robot Explorer
 
+## 🌐 Play Now
+👉 [Play on Unity Play](https://play.unity.com/en/games/700a66d7-b84f-40f9-81d9-e226060ac3a5/explorer)
+
 ## 🛠️ How to Run Locally
 1. Clone this repo
 2. Open in Unity Hub (Unity 2022.3+)
